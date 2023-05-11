@@ -1,0 +1,25 @@
+
+
+--phi=None
+--n_gwas=34692
+--seed=None
+--sst_file=/space/syn50/1/data/ABCD/d9smith/PRScs/haowang/UKB/Cortex/fastGWA/global/UKB_cortex_global_total_surface_area_sumstat.fastGWA.formatted
+--chrom=[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+--a=1
+--bim_prefix=/space/syn70/1/data/ABCD/TOPMED_imputed_UKB_intersected_flipped
+--b=0.5
+--beta_std=False
+--n_iter=1000
+--out_dir=/space/syn50/1/data/ABCD/d9smith/PRScs/Results/temp/global_total_surface_area
+--thin=5
+--ref_dir=/space/chen-syn01/1/data/haowang/bin/LD_reference/ldblk_1kg_eur
+--n_burnin=500
+
+
+##### process chromosome 1 #####
+... parse reference file: /space/chen-syn01/1/data/haowang/bin/LD_reference/ldblk_1kg_eur/snpinfo_1kg_hm3 ...
+... 92617 SNPs on chromosome 1 read from /space/chen-syn01/1/data/haowang/bin/LD_reference/ldblk_1kg_eur/snpinfo_1kg_hm3 ...
+... parse bim file: /space/syn70/1/data/ABCD/TOPMED_imputed_UKB_intersected_flipped.bim ...
+... 835300 SNPs on chromosome 1 read from /space/syn70/1/data/ABCD/TOPMED_imputed_UKB_intersected_flipped.bim ...
+... parse sumstats file: /space/syn50/1/data/ABCD/d9smith/PRScs/haowang/UKB/Cortex/fastGWA/global/UKB_cortex_global_total_surface_area_sumstat.fastGWA.formatted ...
+... 7852929 SNPs read from /space/syn50/1/data/ABCD/d9smith/PRScs/haowang/UKB/Cortex/fastGWA/global/UKB_cortex_global_total_surface_area_sumstat.fastGWA.formatted ...
